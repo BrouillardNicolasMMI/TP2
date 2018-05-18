@@ -1,12 +1,12 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	 background-image: linear-gradient(to right top, #06011c, #223853, #3b708b, #5daebf, #91eeea);
 }
 
 #header
 {
-	background: #ccc;
+background-image:  background-image: linear-gradient(to right bottom, #00e9ff, #00c6ee, #00a4d8, #0082be, #11619f);
 	padding: 20px;
 }
 
@@ -88,8 +88,9 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+background: url('https://media1.giphy.com/media/r1IMdmkhUcpzy/giphy-downsized.gif');
+	 
 	text-align: right;
 	padding: 20px;
-	height: 1%;
+	height:200px;
 }
